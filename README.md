@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Umar, with 10 years of experience in developing, deploying, launching and maintaining front-end and back-end applications from scratch.
+
+- I specialize in JS ecosystem with experience in many different libraries and frameworks.
+
+- Primaryily working in React Native, React JS and Nest JS.
+
+- Find more about me at https://gamingumar.com
+
+
 <!--
 **gamingumar/gamingumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
