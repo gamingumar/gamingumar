@@ -6,7 +6,12 @@ I am Umar, with 10 years of experience in developing, deploying, launching and m
 
 - Primarily working in React Native, React JS and Nest JS.
 
-- Find more about me at https://gamingumar.com
+### Find more about me @:
+
+- https://gamingumar.com
+- https://twitter.com/UmarCloud
+- https://linkedin.com/in/umaraamer
+- https://facebook.com/gamingumar
 
 
 <!--
