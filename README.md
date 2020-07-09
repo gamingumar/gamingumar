@@ -4,7 +4,7 @@ I am Umar, with 10 years of experience in developing, deploying, launching and m
 
 - I specialize in JS ecosystem with experience in many different libraries and frameworks.
 
-- Primaryily working in React Native, React JS and Nest JS.
+- Primarily working in React Native, React JS and Nest JS.
 
 - Find more about me at https://gamingumar.com
 
