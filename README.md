@@ -8,27 +8,27 @@ I am Umar, with 10 years of experience in developing, deploying, launching and m
 
 Following are some of my react native apps:
 
-My Sports Vote - Sports fans app - mysportsvote.com
+#### My Sports Vote - Sports fans app - http://mysportsvote.com
 
-==> Android: https://play.google.com/store/apps/details?id=com.voterconnect.msv&hl=en
-==> iOS: https://apps.apple.com/us/app/my-sports-vote/id1450483129
-
-
-Yeebly - E-commerce store app - yeebly.ae
-
-==> https://play.google.com/store/apps/details?id=net.unitedsol.yeebly&hl=en
-==> https://apps.apple.com/us/app/yeebly/id1329915504
+- Android: https://play.google.com/store/apps/details?id=com.voterconnect.msv&hl=en
+- iOS: https://apps.apple.com/us/app/my-sports-vote/id1450483129
 
 
-The New Flat Rate - thenewflatrate.com
+#### Yeebly - E-commerce store app - https://yeebly.ae
 
-==> https://play.google.com/store/apps/details?id=com.tnfr.tnfr&hl=en
-==> https://apps.apple.com/us/app/tnfr/id1257180491
+- https://play.google.com/store/apps/details?id=net.unitedsol.yeebly&hl=en
+- https://apps.apple.com/us/app/yeebly/id1329915504
 
-Eatn - Restaurant app - eatnnow.com
 
-==> https://play.google.com/store/apps/details?id=com.eatnnow.eatncustomer&hl=en
-==> https://apps.apple.com/us/app/eatn/id1449244024
+#### The New Flat Rate - https://thenewflatrate.com
+
+- https://play.google.com/store/apps/details?id=com.tnfr.tnfr&hl=en
+- https://apps.apple.com/us/app/tnfr/id1257180491
+
+#### Eatn - Restaurant app - https://eatnnow.com
+
+- https://play.google.com/store/apps/details?id=com.eatnnow.eatncustomer&hl=en
+- https://apps.apple.com/us/app/eatn/id1449244024
 
 ### Find more about me @:
 
