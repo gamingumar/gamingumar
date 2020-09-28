@@ -6,7 +6,7 @@ I am Umar, with 10 years of experience in developing, deploying, launching and m
 
 - Primarily working in React Native, React JS and Nest JS.
 
-Following are some of my react native apps:
+Following are some of my published apps:
 
 #### My Sports Vote - Sports fans app - http://mysportsvote.com
 
@@ -30,7 +30,7 @@ Following are some of my react native apps:
 - https://play.google.com/store/apps/details?id=com.eatnnow.eatncustomer&hl=en
 - https://apps.apple.com/us/app/eatn/id1449244024
 
-#### Docpro - Doctors portal to setup appointment https://docpro.pk/
+#### Docpro - A web portal for Doctors and patients to book an appointment https://docpro.pk/
 
 ### Find more about me @:
 
