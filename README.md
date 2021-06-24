@@ -8,22 +8,32 @@ I am Umar, with 10 years of experience in developing, deploying, launching and m
 
 Following are some of my published apps:
 
+
+#### Dyme Jobs and Rewards - Apply to Jobs, refer and get rewards app - http://mydyme.io/
+
+- Android: https://play.google.com/store/apps/details?id=com.buddyrise
+- iOS: https://apps.apple.com/us/app/dyme-jobs-and-rewards/id1526557944
+
 #### My Sports Vote - Sports fans app - http://mysportsvote.com
 
 - Android: https://play.google.com/store/apps/details?id=com.voterconnect.msv&hl=en
 - iOS: https://apps.apple.com/us/app/my-sports-vote/id1450483129
+
+#### The New Flat Rate - https://thenewflatrate.com
+
+- https://play.google.com/store/apps/details?id=com.tnfr.tnfr&hl=en
+- https://apps.apple.com/us/app/tnfr/id1257180491
+
+
+#### Condado Callroute - Redirect voice calls from one solution provider to another.
+
+- https://apps.apple.com/us/app/id1495046573#?platform=iphone
 
 
 #### Yeebly - E-commerce Grocery store app - https://yeebly.ae
 
 - https://play.google.com/store/apps/details?id=net.unitedsol.yeebly&hl=en
 - https://apps.apple.com/us/app/yeebly/id1329915504
-
-
-#### The New Flat Rate - https://thenewflatrate.com
-
-- https://play.google.com/store/apps/details?id=com.tnfr.tnfr&hl=en
-- https://apps.apple.com/us/app/tnfr/id1257180491
 
 #### Eatn - Restaurant app - https://eatnnow.com
 
