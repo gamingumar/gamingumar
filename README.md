@@ -19,7 +19,7 @@ Following are some of my published apps:
 - Android: https://play.google.com/store/apps/details?id=com.voterconnect.msv&hl=en
 - iOS: https://apps.apple.com/us/app/my-sports-vote/id1450483129
 
-#### The New Flat Rate - https://thenewflatrate.com
+#### The New Flat Rate - App for builders and technicians to help them manage orders and invoices. https://thenewflatrate.com
 
 - https://play.google.com/store/apps/details?id=com.tnfr.tnfr&hl=en
 - https://apps.apple.com/us/app/tnfr/id1257180491
