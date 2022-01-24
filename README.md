@@ -2,14 +2,14 @@
 
 I am Umar, with 10 years of experience in developing, deploying, launching and maintaining front-end and back-end applications from scratch.
 
-- I specialize in JS ecosystem with experience in many different languages, libraries and frameworks.
+- I specialize in JS ecosystem with experience in various different languages, libraries and frameworks.
 
 - Primarily working in React Native, React JS and Nest JS.
 
 Following are some of my published apps:
 
 
-#### Dyme Jobs and Rewards - Apply to Jobs, refer and get rewards app - http://mydyme.io/
+#### Dyme Jobs and Rewards - Apply to Jobs, refer and get rewards app - https://mydyme.io/
 
 - Android: https://play.google.com/store/apps/details?id=com.buddyrise
 - iOS: https://apps.apple.com/us/app/dyme-jobs-and-rewards/id1526557944
@@ -40,7 +40,7 @@ Following are some of my published apps:
 - https://play.google.com/store/apps/details?id=com.eatnnow.eatncustomer&hl=en
 - https://apps.apple.com/us/app/eatn/id1449244024
 
-#### Docpro - A web portal for Doctors and patients to book an appointment https://docpro.pk/
+#### Docpro - A web portal for Doctors and patients to book an appointment
 
 ### Find more about me @:
 
