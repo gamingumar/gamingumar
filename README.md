@@ -1,8 +1,8 @@
 ### Hi there 👋 https://gamingumar.com
 
-I am Umar, with 10 years of experience in developing, deploying, launching and maintaining front-end and back-end applications from scratch.
+I am <a href="/umar-cv.pdf" target="_blank">Umar</a>, with 10 years of experience in developing, deploying, launching and maintaining front-end and back-end applications from scratch.
 
-- I specialize in JS ecosystem with experience in various different languages, libraries and frameworks.
+- I specialize in JavaScript and TypeScript ecosystem with experience in various different languages, libraries and frameworks.
 
 - Primarily working in React Native, React JS and Nest JS.
 
